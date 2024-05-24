@@ -1,0 +1,76 @@
+{
+  "blogs": [
+    {
+      "id": "cc1e",
+      "title": "Food Blog",
+      "description": "The standard Lorem Ipsum passage, used since the 1500s \"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"  Section 1.10.32 of \"de Finibus Bonorum et Malorum\", written by Cicero in 45 BC \"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?\"  1914 translation by H. Rackham \"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?\"",
+      "category": "Food",
+      "imageURL": "http://res.cloudinary.com/dnxrpxyuj/image/upload/v1716030180/rqqgqjxrgni7udxc8nr5.jpg",
+      "date": "05/18/2024"
+    },
+    {
+      "id": "09b5",
+      "title": "Food Blog Updated 4",
+      "description": "\"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?\"",
+      "category": "Food",
+      "imageURL": "http://res.cloudinary.com/dnxrpxyuj/image/upload/v1716116563/inqh5rcejyiutvj4ly7l.jpg",
+      "date": "05/19/2024"
+    },
+    {
+      "id": "8857",
+      "title": "Chat gpt",
+      "description": "ChatGPT and Bard: What’s the difference? The biggest difference between ChatGPT and Bard is the Large Language Models (LLMs) they are powered by. ChatGPT uses the Generative Pre-trained Transformer 4 (GPT-4), while Bard uses the Language Model for Dialogue Applications (LaMBDA). Also, ChatGPT is developed by OpenAI, while Bard was built by Google.  In terms of capabilities, both do very similar things. Programmers can use ChatGPT for: Suggestions: Both models can suggest the correct syntax and parameters for functions and other code constructs.  Completion: It can complete code that you have started writing.  Debugging: It can help you identify errors and problems in your code.  Explanation: It can explain the code that it generates, or code you input.  Both models were trained on a massive dataset, including Common Crawl, Wikipedia, books, articles, documents, and content scraped from the internet. However, Bard is a little different in that it was trained on conversations and dialogues from the web, while ChatGPT was trained mostly on scraped general content.  Both products are still under development, Bard a bit more so than ChatGPT. But to really show how these differences actually matter in a practical sense, here’s how they work when tested against each other.  Testing ChatGPT and Bard against each other We chose seven categories to test the chatbots against each other, based on what we felt were the most relevant: code generation, problem solving, refactoring code, debugging assistance, third-party plugins/UI extension, ease of use, and cost. Let's preface this by saying this is not a rigorous scientific comparison, but rather a handful of tests mixed with our hands-on experience to date.  1. Code generation The bread and butter of what we want it for, right? For this, we fed in the following prompt: \"Write a function in python that returns a list of 100 prime numbers.\" ",
+      "category": "Tech",
+      "imageURL": "http://res.cloudinary.com/dnxrpxyuj/image/upload/v1716294744/amll2zh0xow5xhbh7aid.jpg",
+      "date": "05/21/2024"
+    },
+    {
+      "id": "bcb8",
+      "title": "Kokan trip",
+      "description": "Thanks for looking! I'm David Leiter, and this is my travel blog.  I'm an American who's been traveling the world full time for 8 years. Nowadays, I'm usually in Bali, Indonesia, with my wife Intan.  I first fell in love with travel on a solo road trip across Iceland in 2016. My budget was small, so I slept in the back of a rental car for 1 month while I drove 7,000 kilometers around the country, filming all the scenic places in Iceland.  One of my first videos racked up a few million views and was featured on international TV by BBC Travel.   Since then I've solo traveled to many developing countries, including almost every country in Asia, Central America, and the Middle East.  I experienced the 7.0 Lombok earthquake in Indonesia in 2018, the bombings in Bangkok in 2019, and a fair share of scams, fights, sicknesses, car accidents, and other crazy things along the way.  It hasn't always been easy, but over the years I've been blessed with some amazing experiences, including:  • Hiking to Mount Everest Base Camp in the Himalayas, • Climbing an erupting volcano in Guatemala, • Trekking on glaciers in Patagonia and visiting the Iguazu Falls in Argentina, • Seeing wild Komodo dragons and orangutans in Indonesia, • Sleeping in treehouses in Bali and seeing blue fire in Java, • Dining on tarantulas and scorpions in Cambodia, • Riding a camel to the Great Pyramids of Giza in Egypt, • Skydiving over paradise in Oahu Hawaii, • And visiting some timeless world monuments like the Taj Mahal, Tikal, Bagan, Machu Picchu, Hagia Sophia, Angkor Wat, Petra, and Himeji Castle. In 2018, I traveled to 24 countries in one year, which is a personal record so far! I did this on a pretty modest budget and rarely spent more than $30/day on my travels, including lodging and food.  I haven't been everywhere, but it's on my list! I'm always looking for new adventures.  I hope my travel blog can help and inspire you in your own journeys as well!",
+      "category": "Travel",
+      "imageURL": "http://res.cloudinary.com/dnxrpxyuj/image/upload/v1716294869/s1q85ehcodaifl8z4023.jpg",
+      "date": "05/21/2024"
+    },
+    {
+      "id": "9244",
+      "title": "Best Fashion",
+      "description": "Whether you’re a busy freelancer, a web designer, a stay-at-home mom, or a college student, fashion is a powerful tool to elevate your everyday life.  Fashion is NOT just about the latest trends; it’s a way to express yourself and feel confident. Being average is always boring and the joy of dressing is really an art.  Want to become more stylish? You can choose to hire a professional fashion designer or do it yourself.  So, if you are looking for effortless ways and ideas to become more fashionable, we have a curated list of the best fashion blogs to guide you. These fashion blogs aren’t just about the latest trends; they’ll show you how to explore new outfit ideas, learn how to style what you already own and build confidence through style.  Let’s dive into these blogs and discover your unique style!  Quick note: Do you want to start a blog? Here’s a simple step-by-step tutorial on starting your own blog within 10 minutes.",
+      "category": "Fashion",
+      "imageURL": "http://res.cloudinary.com/dnxrpxyuj/image/upload/v1716295238/g77zl94ccxnthlfvsmkq.jpg",
+      "date": "05/21/2024"
+    },
+    {
+      "id": "1263",
+      "title": "Sports Blog",
+      "description": "FORMULA 1: LATE NIGHT PRACTICE, DRAIN COVERS, AND YET ANOTHER MAX VERSTAPPEN WIN IN LAS VEGAS! Max Verstappen won the Las Vegas Grand Prix after initially disliking the excess and opulence of the event. The event was filled with celebrities and entertainment but had a successful ending with Verstappen's victory and praise for the track. Despite some issues during practice, the race was considered one of the most lively of the season. Ferrari driver Charles Leclerc and Verstappen's teammate Sergio Perez also had a strong race finishing second and third, respectively. A drain cover on the track drew the most attention by damaging Carlos Sainz's car severely in Free Practice 1 - resulting in a major delay and a 10-second penalty to Sainz for the damages that had to be fixed (stupid I know).  Next up: The finale of the 2023 season at the Abu Dhabi Grand Prix on Sunday!  WOMEN'S COLLEGE BASKETBALL: LSU TIGERS STAR ANGEL REESE INVOLVED IN OFF-COURT DRAMA! Something is going on behind the scenes with LSU women's basketball star Angel Reese. Kim Mulkey, LSU women's basketball coach, refused to discuss the absence of Angel Reese - who was not with the team for a recent game. Reese's absence follows her being benched in the previous game and Mulkey said it was \"a coach's decision.\" Despite this, the team has a strong lineup and is expected to compete for a second consecutive national title.  NBA: SUNS WILL BE WITHOUT GUARD BRADLEY FOR A FEW WEEKS Bradley Beal will be out for at least three weeks due to a back injury, impacting the Phoenix Suns' plan to create a powerful trio with him and Devin Booker. The team will reevaluate his condition in three weeks. The Suns are 7-6 after a dramatic win over the Utah Jazz last night.",
+      "category": "Sports",
+      "imageURL": "http://res.cloudinary.com/dnxrpxyuj/image/upload/v1716295361/dsgdz1k8wcvnokifdxfm.jpg",
+      "date": "05/21/2024"
+    },
+    {
+      "id": "10ca",
+      "title": "Best Diet For Humans",
+      "description": "Living a healthier life might seem like a tall order — the nutrition, the exercise, the inner happiness! But having some friendly advice at your disposal, whenever and wherever you need it, makes it easier and more fun. With just a click, these awesome blogs filled with tips, tricks, and personal stories will inspire you on your journey to wellness.  Delish Knowledge Think of this as healthy vegetarian cooking, made simple. Writer Alex is a registered dietitian, and her ingredient shopping tips and cooking videos — check out the one for vegan paella! — are the next best thing to an office visit. Vegetarians or anybody curious about the lifestyle can consider this blog their starter kit for plant-based recipes that range in ingredients and complexity.  The Real Food Dietitians This blog is for people who love their Instant Pot, slow cooker, and Whole30 plan. It features recipes for each, plus tips for meal prep efficiency. Not only are there tons of dietitian-authored recipes, but you can also opt in for customized meal plans.   Fit Bottomed Girls For those who get frustrated with the status quo and ideals of what we “should” be, Fit Bottomed Girls offers a refreshing change of pace. The founders, both certified fitness pros, preach confidence and body positivity. They take a thoughtful approach to fitness, instead of quick, lose-fat-in-10-days results. Their roadmap to a healthier life is a combination of nutrition-packed recipes, doable daily workouts, and a good dose of meditation.  Fit Foodie Finds Fit Foodie Finds is a wellness blog tailor-made for serial Instagram scrollers. The gorgeous photos of healthy meals are just as exciting as making them. Who knew oats could look so pretty? Healthy living posts primarily focus on recipes, but they also include workouts (booty, legs, you name it), do-it-yourself (DIY) beauty, mental health, and relationships. Style-conscious readers will love it, too, with its gallery after gallery of fashion articles.",
+      "category": "Fitness",
+      "imageURL": "http://res.cloudinary.com/dnxrpxyuj/image/upload/v1716295466/pnwul9q9syici8qp3h8c.jpg",
+      "date": "05/21/2024"
+    },
+    {
+      "id": "b72b",
+      "title": "Tech 2",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet nisi at elit venenatis fringilla. Cras ut semper quam, sit.",
+      "category": "Tech",
+      "imageURL": "http://res.cloudinary.com/dnxrpxyuj/image/upload/v1716470824/l4yux7bfztgict0h4vko.jpg",
+      "date": "05/23/2024"
+    },
+    {
+      "id": "4c7f",
+      "title": "Sports 2",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet nisi at elit venenatis fringilla. Cras ut semper quam, sit.",
+      "category": "Sports",
+      "imageURL": "http://res.cloudinary.com/dnxrpxyuj/image/upload/v1716470885/wgizmc9dtdhn69kzdk84.jpg",
+      "date": "05/23/2024"
+    }
+  ]
+}

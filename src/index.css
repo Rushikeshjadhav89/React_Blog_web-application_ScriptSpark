@@ -11,3 +11,76 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h1 {
+  overflow: hidden;
+  text-align: center;
+}
+
+h1:before,
+h1::after {
+  background-color: #000;
+  content: "";
+  display: inline-block;
+  height: 1px;
+  position: relative;
+  vertical-align: middle;
+  width: 50%;
+}
+
+h1:before {
+  right: 0.5rem;
+  margin-left: -50%;
+}
+
+h1::after {
+  left: 0.5rem;
+  margin-right: -50%;
+}
+
+.categoryDropdown {
+  width: 50%;
+  border-radius: 4px;
+  height: 35px;
+  border-color: #83ccc5;
+}
+
+.categoryErrMsg {
+  color: red;
+  text-align: center;
+  font-size: 14px;
+}
+
+.searchFrom{
+  margin: auto;
+  padding: 15px;
+  max-width: 550px;
+  align-content: center;
+}
+
+.blog-item {
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  padding: 15px;
+  border-radius: 5px;
+  background: #fff;
+  margin-bottom: 20px;
+}
+
+.latest-title{
+  color: black;
+  font-weight: 600;
+  font-family: monospace;
+}
+
+@media (max-width: 768px) {
+  .blog-item {
+    flex: 1 1 calc(50% - 20px); /* Adjust to 2 columns on medium screens */
+  }
+}
+
+@media (max-width: 576px) {
+  .blog-item {
+    flex: 1 1 100%; /* Full width on small screens */
+  }
+}
